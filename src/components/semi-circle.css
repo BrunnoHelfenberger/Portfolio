@@ -1,0 +1,29 @@
+#svg {
+    background-color: #f2f2f2;
+}
+
+#semi-circle {
+    position: relative;
+    top: -50px;
+    left: -50px;
+
+}
+
+.semi-circle-wrapper.no-fade #semi-circle {
+    animation: none;
+}
+
+#svg_2 {
+    background-color: #f2f2f2;
+}
+
+#semi-circle_2 {
+    position: relative;
+    top: 712px;
+    left: -150px;
+
+}
+
+.semi-circle-wrapper.no-fade #semi-circle {
+    animation: none;
+}
